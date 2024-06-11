@@ -1,0 +1,64 @@
+* {
+    font-size: 2vw; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    font-size: 2vw; 
+    background-color: black;
+    padding: 10px 0; 
+    text-align: center; 
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10%; 
+    font-size: 2.5vw;
+}
+
+h1 {
+    font-size: 3vw; 
+    margin-top: 5%;
+}
+
+.content {
+    background-color: whitesmoke;
+    width: 70%;
+    text-align: left;
+    padding: 20px; 
+    margin: 20px auto; 
+    font-size: 2vw; 
+}
+
+.rescont {
+    background-color: whitesmoke;
+    width: 50%;
+    text-align: center;
+    padding: 2px;
+    margin: 20px auto; 
+    font-size: 2vw; 
+}
+
+.calculate {
+    background-color: rgb(254, 230, 199);
+    padding: 1px; 
+    margin: 20px auto; 
+    width: auto; 
+    font-size: 2vw; 
+    cursor: pointer; 
+}
+
+input[type="number"] {
+
+    font-size: 2vw; 
+    padding: 5px; 
+    width: 30%; /
+}
